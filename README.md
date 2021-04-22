@@ -1,2 +1,2 @@
 # neural_style_transfer
-Building upon Week 4 Coursera CNN assignment to create a function that will take content image, style image, and various parameters and output stylized content image.  
+Building upon Week 4 Coursera CNN assignment to create a function that will take content image, style image, and various parameters and output stylized content image.  Thank you to François Chollet for this vignette: https://keras.io/examples/generative/neural_style_transfer/. The script main_functions.py basically wraps the vignette into a function that can be called with many tuning parameters.
