@@ -19,4 +19,4 @@ neural_style_transfer(base_image_path='images/me.jpg',
                       opt_decay_rate = 0.96,
                       iterations = 1000, 
                       how_often_print_save = 100,
-                      outdir = 'images/generated/norway_blake')
+                      outdir = 'images/generated/norway_blake/norway_blake')
